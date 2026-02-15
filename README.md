@@ -1,8 +1,7 @@
 # PepsiCo-Social-Media-Analytics-for-Strategic-Branding-
 (EXCEL PROJECT)
 ## Project Overview 
-This project was completed as part of the Internshala Data Science Training Program.
-It focuses on analyzing PepsiCo’s multi-platform social media performance to evaluate campaign effectiveness, audience engagement, follower retention, and overall digital strategy efficiency.This project is aimed to build a complete Social Media Intelligence Dashboard in Excel to track engagement, content performance, and ROI, guiding data-driven marketing decisions.
+This project This project is aimed to build a complete Social Media Intelligence Dashboard in Excel to track engagement, content performance, and ROI, guiding data-driven marketing decisions. It focuses on analyzing PepsiCo’s multi-platform social media performance to evaluate campaign effectiveness, audience engagement, follower retention, and overall digital strategy efficiency.
 Using Microsoft Excel as the primary analytical tool, the project applies data analytics techniques to generate actionable insights for improving PepsiCo’s marketing performance and digital engagement.
 ## Project Objectives 
 The key objectives of this project were to:  
